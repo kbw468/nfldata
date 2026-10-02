@@ -21,4 +21,4 @@ Window weeks 4–9, 2015–2025, league-wide, n ≥ 10. One file per game.
 | 2026-10-04 | Sunday | DET at CAR | DET −3.5 | 50.5 | [2026_04_DET_CAR.md](2026_04_DET_CAR.md) |
 | 2026-10-05 | Monday | ATL at NO | ATL +2.5 | 47.5 | [2026_04_ATL_NO.md](2026_04_ATL_NO.md) |
 
-Class result, walk-forward 2019–25 pooled across every chair on this card: sides (mirror chairs counted once) 634–641 (49.7%); totals, hits in the training cut's direction, 754–886 (46.0%).
+Class result, walk-forward 2019–25 pooled across every chair on this card: sides 659–667 (49.7%, 32 distinct chairs; chairs whose out-of-sample game sets are identical count once); totals, hits in the training cut's direction, 583–693 (45.7%, 15 distinct cuts).
