@@ -21,4 +21,17 @@ Window weeks 4–9, 2015–2025, league-wide, n ≥ 10. One file per game.
 | 2026-10-04 | Sunday | DET at CAR | DET −3.5 | 50.5 | [2026_04_DET_CAR.md](2026_04_DET_CAR.md) |
 | 2026-10-05 | Monday | ATL at NO | ATL +2.5 | 47.5 | [2026_04_ATL_NO.md](2026_04_ATL_NO.md) |
 
+Class result by fold year, deduped at the fold level (a fold-year printed under several chairs or cuts counts once):
+
+| Year | Sides W–L | Totals hits–misses (training direction) |
+|---|---|---|
+| 2019 | 49–36 | 90–77 |
+| 2020 | 38–29 | 64–85 |
+| 2021 | 31–35 | 61–69 |
+| 2022 | 22–31 | 59–79 |
+| 2023 | 13–19 | 99–55 |
+| 2024 | 27–22 | 51–93 |
+| 2025 | 25–13 | 54–82 |
+| **Pooled** | **205–185 (52.6%)** | **478–540 (47.0%)** |
+
 Class result, walk-forward 2019–25 pooled across every chair on this card: sides 219–197 (52.6%, 32 distinct chairs; chairs whose out-of-sample game sets are identical count once); totals, hits in the training cut's direction, 583–693 (45.7%, 15 distinct cuts).
