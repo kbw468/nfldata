@@ -1,6 +1,6 @@
 # Week 4 2026 — SDQL-style reads
 
-Window weeks 4–9, 2016–2025, league-wide, n ≥ 10. One file per game.
+Window weeks 4–9, 2015–2025, league-wide, n ≥ 10. One file per game.
 
 | Date | Day | Game | Line | Total | File |
 |---|---|---|---|---|---|
